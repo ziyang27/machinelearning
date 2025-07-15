@@ -61,30 +61,17 @@ This project is based on the tutorial: [Project 15. Titanic Survival Prediction 
 
 ### 4. Feature Engineering
 **Categorical Encoding:**
-- **Binary Encoding**: Sex (male=0, female=1)
 - **Label Encoding**: Embarked port (C=0, Q=1, S=2)
-- **Ordinal Encoding**: Pclass (already numerical: 1st, 2nd, 3rd class)
-- **Feature Creation**: [Any new features derived from existing ones]
-
+  
 ### 5. Model Pipeline
 **Data Preparation:**
 - **Feature Selection**: Separated independent variables (X) from target (y)
 - **Train-Test Split**: Divided data for training and validation
-- **Feature Scaling**: [If applied, mention scaling techniques]
 
 ### 6. Model Training
 **Algorithm Selection:**
-- **Primary Model**: [Specify algorithm used - e.g., Logistic Regression, Random Forest, SVM]
-- **Reasoning**: [Why this algorithm was chosen]
+- **Primary Model**: Logistic Regression
 - **Training Process**: Fitted model on training data
-
-### 7. Model Evaluation
-**Performance Metrics:**
-- **Accuracy**: [Overall prediction accuracy]
-- **Precision**: [Precision score for survival prediction]
-- **Recall**: [Recall score for survival prediction]
-- **F1-Score**: [Harmonic mean of precision and recall]
-- **Confusion Matrix**: Detailed classification results
 
 ## Technical Skills Demonstrated
 - **Data Preprocessing**: Handling missing values systematically
