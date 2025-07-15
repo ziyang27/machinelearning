@@ -1,0 +1,37 @@
+# Python virtual environment
+**/project1/
+**/project2/
+**/project3/
+**/project4/
+**/project5/
+**/project6/
+**/project7/
+**/project8/
+**/project9/
+**/project10/
+**/project11/
+**/project12/
+**/project13/
+**/project14/
+**/project15/
+**/project16/
+**/project17/
+**/project18/
+**/project19/
+**/project20/
+**/project21/
+**/project22/
+
+# Large data files
+Project 1 EDA Portfolio/TWO_CENTURIES_OF_UM_RACES.csv
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
