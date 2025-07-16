@@ -85,8 +85,8 @@ Welcome to my machine learning journey! This repository contains a comprehensive
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ml-projects-repo.git
-   cd ml-projects-repo
+   git clone https://github.com/ziyang27/machinelearning.git
+   cd machinelearning
    ```
 
 2. **Set up virtual environment:**
@@ -94,14 +94,14 @@ Welcome to my machine learning journey! This repository contains a comprehensive
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
+   
+3. **Navigate to any project folder and explore the notebooks/scripts**
 
-3. **Install dependencies:**
+4. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-
-4. **Navigate to any project folder and explore the notebooks/scripts**
-
+   
 ## 📈 Current Status
 
 **Completed Projects:** 5/22 (23%)
