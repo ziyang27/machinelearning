@@ -98,18 +98,6 @@ This project is based on the tutorial: [Intro to Machine Learning with Python 1:
 - No overfitting issues
 - Correct evaluation methodology
 
-## Usage
-1. **Setup environment:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. **Run the notebook:**
-   ```bash
-   jupyter notebook notebook.ipynb
-   ```
-3. **Follow the step-by-step analysis**
-4. **Verify the 100% accuracy result**
-
 ## Conclusion
 This project successfully demonstrates the complete machine learning pipeline from data exploration to model evaluation. The iris dataset provides an excellent foundation for understanding classification techniques, though the perfect accuracy result requires further investigation to ensure model validity.
 
@@ -120,4 +108,3 @@ The systematic approach to EDA, model selection, and evaluation provides a solid
 **Project Status**: ✅ Completed (Under Review)  
 **Last Updated**: 15/7/25 
 **Time Invested**: 3 Hours 
-**Next Action**: Verify 100% accuracy result
