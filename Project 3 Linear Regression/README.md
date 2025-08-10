@@ -88,13 +88,6 @@ b = b - α * (∂J/∂b)
 - **Convergence Behavior**: How algorithms reach optimal solutions
 - **Implementation Challenges**: Numerical stability and efficiency considerations
 
-## Challenges Faced
-- **Learning Rate Tuning**: Finding optimal step size for convergence
-- **Numerical Stability**: Handling potential overflow/underflow issues
-- **Convergence Criteria**: Determining when to stop training
-- **Vectorization**: Optimizing code for better performance
-- **Debugging**: Verifying mathematical correctness
-
 ## Conclusion
 This project successfully implements linear regression from scratch, providing deep insights into the mathematical foundations of machine learning. The hands-on approach to building gradient descent optimization demonstrates mastery of fundamental ML concepts that underpin more complex algorithms.
 
