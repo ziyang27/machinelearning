@@ -142,5 +142,5 @@ Feel free to reach out if you have questions or want to discuss any of these pro
 
 ---
 
-*Last updated: 10/8/25*
+*Last updated: 10/8/25* <br>
 *Progress: 8/22 projects completed*
