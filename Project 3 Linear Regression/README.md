@@ -81,12 +81,6 @@ b = b - α * (∂J/∂b)
 - **Performance Analysis**: Tracking cost function during training
 - **Vectorization**: Efficient numpy operations (if applicable)
 
-## Visualizations Created
-1. **Cost Function Plot**: Shows cost decreasing over iterations
-2. **Regression Line**: Fitted line overlaid on scatter plot
-3. **Predictions vs Actual**: Model performance visualization
-4. **Gradient Descent Path**: Parameter updates visualization (if 2D)
-
 ## Key Learnings
 - **Gradient Descent Mechanics**: How optimization algorithms work step-by-step
 - **Mathematical Intuition**: Understanding the "why" behind linear regression
@@ -101,55 +95,6 @@ b = b - α * (∂J/∂b)
 - **Vectorization**: Optimizing code for better performance
 - **Debugging**: Verifying mathematical correctness
 
-## Code Structure
-```python
-class LinearRegression:
-    def __init__(self, learning_rate=0.01, n_iterations=1000):
-        self.learning_rate = learning_rate
-        self.n_iterations = n_iterations
-        self.weight = 0
-        self.bias = 0
-        self.cost_history = []
-    
-    def fit(self, X, y):
-        # Training implementation
-        pass
-    
-    def predict(self, X):
-        # Prediction implementation
-        return self.weight * X + self.bias
-    
-    def compute_cost(self, y_pred, y_actual):
-        # Cost function implementation
-        pass
-```
-
-## Usage
-1. **Setup environment:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Run the implementation:**
-   ```bash
-   jupyter notebook notebook.ipynb
-   ```
-
-3. **Test the custom class:**
-   ```python
-   from linear_regression import LinearRegression
-   
-   model = LinearRegression(learning_rate=0.01, n_iterations=1000)
-   model.fit(X_train, y_train)
-   predictions = model.predict(X_test)
-   ```
-
-## Validation & Testing
-- **Manual Calculations**: Verified gradients by hand for small examples
-- **Library Comparison**: Compared results with sklearn.linear_model.LinearRegression
-- **Multiple Datasets**: Tested on various regression problems
-- **Edge Cases**: Handled scenarios with different data distributions
-
 ## Conclusion
 This project successfully implements linear regression from scratch, providing deep insights into the mathematical foundations of machine learning. The hands-on approach to building gradient descent optimization demonstrates mastery of fundamental ML concepts that underpin more complex algorithms.
 
@@ -160,4 +105,3 @@ Understanding these basics is crucial for advancing to more sophisticated machin
 **Project Status**: ✅ Completed  
 **Last Updated**: 15/7/2025 
 **Time Invested**: 2 Hours  
-**Key Achievement**: Successfully implemented gradient descent from scratch
