@@ -20,9 +20,9 @@ Welcome to my machine learning journey! This repository contains a comprehensive
 - [x] **Housing Price Predictor** - Regression analysis with real estate data
 
 ### Intermediate Projects
-- [ ] **Image Classification** - CNN for image recognition tasks
-- [ ] **Sentiment Analysis System** - NLP for text sentiment classification
-- [ ] **Customer Churn Predictor** - Business analytics and prediction
+- [x] **Image Classification** - CNN for image recognition tasks
+- [x] **Sentiment Analysis System** - NLP for text sentiment classification
+- [x] **Customer Churn Predictor** - Business analytics and prediction
 - [ ] **Stock Price Predictor** - Time series forecasting
 - [ ] **BYO Neural Network** - Deep learning fundamentals from scratch
 
@@ -77,7 +77,6 @@ Welcome to my machine learning journey! This repository contains a comprehensive
 ├── 06-image-classification/
 ├── 07-sentiment-analysis/
 ├── ...
-├── requirements.txt
 └── README.md
 ```
 
@@ -104,8 +103,8 @@ Welcome to my machine learning journey! This repository contains a comprehensive
    
 ## 📈 Current Status
 
-**Completed Projects:** 5/22 (23%)
-**Current Focus:** Image Classification
+**Completed Projects:** 8/22 (36%) <br>
+**Current Focus:** Stock Price Predictor <br>
 **Next Milestone:** Complete intermediate projects (10/22)
 
 ## 🎓 Learning Path
@@ -143,5 +142,5 @@ Feel free to reach out if you have questions or want to discuss any of these pro
 
 ---
 
-*Last updated: 15/7/25*
-*Progress: 5/22 projects completed*
+*Last updated: 10/8/25*
+*Progress: 8/22 projects completed*

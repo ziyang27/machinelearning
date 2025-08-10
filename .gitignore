@@ -22,8 +22,22 @@
 **/project21/
 **/project22/
 
-# Large data files
+# Data files
 Project 1 EDA Portfolio/TWO_CENTURIES_OF_UM_RACES.csv
+Project 4 Titanic/train.csv
+Project 5 Housing Price/housing.csv
+Project 6 Image Classification/test 
+Project 6 Image Classification/New Plant Diseases Dataset(Augmented)
+Project 7 Sentiment Analysis/IMDB Dataset.csv
+Project 8 Customer Churn Predictor/customer_churn_data.csv
+
+# Trained models
+Project 6 Image Classification/trained_model.h5
+Project 6 Image Classification/trained_model.keras
+Project 7 Sentiment Analysis/sentiment_analysis_model.h5
+Project 7 Sentiment Analysis/tokenizer.pkl
+Project 8 Customer Churn Predictor/model.pkl
+Project 8 Customer Churn Predictor/scaler.pkl
 
 # Compiled files
 __pycache__/
@@ -35,3 +49,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Kaggle
+kaggle.json
+
