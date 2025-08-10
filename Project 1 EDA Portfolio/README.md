@@ -18,8 +18,6 @@ This project is based on the tutorial: [Data Analyst Portfolio Project (Explorat
 **Libraries Used:**
 - `pandas` - Data manipulation and analysis
 - `seaborn` - Statistical data visualization
-- `matplotlib` - Additional plotting capabilities
-- `numpy` - Numerical operations
 
 ### 2. Data Loading
 - Used `pd.read_csv()` to load the dataset
@@ -32,7 +30,7 @@ This project is based on the tutorial: [Data Analyst Portfolio Project (Explorat
 - `df.info()` - Data types and memory usage
 - `df.describe()` - Statistical summary
 
-### 4. Data Cleaning Pipeline
+### 4. Data Cleaning 
 **Systematic cleaning approach:**
 
 1. **Filtering** - Removed irrelevant or out-of-scope records
@@ -71,18 +69,6 @@ This project is based on the tutorial: [Data Analyst Portfolio Project (Explorat
 - **Visualization Selection**: Choosing appropriate charts for different data types
 - **Feature Engineering**: Creating valuable insights from existing data
 - **Documentation**: Importance of clear, reproducible analysis
-
-## Usage
-1. **Clone the repository**
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter notebook:**
-   ```bash
-   jupyter notebook notebook.ipynb
-   ```
-4. **Follow the step-by-step analysis**
 
 ## Conclusion
 This project successfully demonstrates fundamental EDA skills and establishes a solid foundation for data analysis projects. The systematic approach to data exploration, cleaning, and visualization provides a template for future data science endeavors.

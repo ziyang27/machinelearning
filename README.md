@@ -143,4 +143,5 @@ Feel free to reach out if you have questions or want to discuss any of these pro
 ---
 
 *Last updated: 10/8/25* <br>
-*Progress: 8/22 projects completed*
+*Progress: 8/22 projects completed* <br>
+*[Project notes](https://docs.google.com/document/d/1Ju_JSr2Xr0lwX_4hcTA-yS9N9hpwfwnuYAM6Ky0mLL8/edit?usp=sharing)*
