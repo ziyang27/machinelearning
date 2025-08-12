@@ -23,7 +23,7 @@ Welcome to my machine learning journey! This repository contains a comprehensive
 - [x] **Image Classification** - CNN for image recognition tasks
 - [x] **Sentiment Analysis System** - NLP for text sentiment classification
 - [x] **Customer Churn Predictor** - Business analytics and prediction
-- [ ] **Stock Price Predictor** - Time series forecasting
+- [x] **Stock Price Predictor** - Time series forecasting
 - [ ] **BYO Neural Network** - Deep learning fundamentals from scratch
 
 ### Advanced Projects
@@ -103,8 +103,8 @@ Welcome to my machine learning journey! This repository contains a comprehensive
    
 ## 📈 Current Status
 
-**Completed Projects:** 8/22 (36%) <br>
-**Current Focus:** Stock Price Predictor <br>
+**Completed Projects:** 9/22 (40%) <br>
+**Current Focus:** BYO Neural Network <br>
 **Next Milestone:** Complete intermediate projects (10/22)
 
 ## 🎓 Learning Path
@@ -142,6 +142,6 @@ Feel free to reach out if you have questions or want to discuss any of these pro
 
 ---
 
-*Last updated: 10/8/25* <br>
-*Progress: 8/22 projects completed* <br>
+*Last updated: 12/8/25* <br>
+*Progress: 9/22 projects completed* <br>
 *[Project notes](https://docs.google.com/document/d/1Ju_JSr2Xr0lwX_4hcTA-yS9N9hpwfwnuYAM6Ky0mLL8/edit?usp=sharing)*

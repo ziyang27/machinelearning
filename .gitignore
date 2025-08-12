@@ -38,6 +38,7 @@ Project 7 Sentiment Analysis/sentiment_analysis_model.h5
 Project 7 Sentiment Analysis/tokenizer.pkl
 Project 8 Customer Churn Predictor/model.pkl
 Project 8 Customer Churn Predictor/scaler.pkl
+Project 9 Stock Price Predictor/stock_price_predictor.h5
 
 # Compiled files
 __pycache__/
